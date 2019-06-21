@@ -1,0 +1,5 @@
+/.vs
+/NFLoanGenerator/bin
+/NFLoanGenerator/obj
+/NFLoanGenerator/*.user
+/NFLoanGenerator/*.log
